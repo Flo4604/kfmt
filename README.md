@@ -1,4 +1,4 @@
-# kfmt
+# kfmt [![](https://github.com/fatih/kfmt/workflows/build/badge.svg)](https://github.com/fatih/kfmt/actions)
 
 Format Kubernetes byte quantities for humans.
 
